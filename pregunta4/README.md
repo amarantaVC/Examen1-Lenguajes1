@@ -15,7 +15,7 @@ Una vez realizado este paso.
 
 4. Compile el programa ejecutando los siguientes comandos:
 
-``` g++ --coverage -c -o modelo.o modelo.cpp  ```
+``` g++ --coverage -c -o modulo.o modulo.cpp  ```
 
 ``` g++ --coverage -c -o testmodulo.o testmodulo.cpp ```
 
