@@ -29,7 +29,8 @@ Una vez realizado este paso.
 6. Para la cobertura ejecute el siguiente comando:
 
 ``` gcovr ```
-6. Requisitos del Sistema
+
+7. Requisitos del Sistema
 
 
 - Se requiere un compilador C++ (g++ recomendado) para compilar el código.
