@@ -9,7 +9,7 @@ with Ada.Text_IO; use Ada.Text_IO;
 with Ada.Integer_Text_IO;
 
 
-procedure rotandoString is
+procedure rotandostring is
 
     -- Funcion que rota una palabra w k veces
     function Rotar(w : String; k : Integer) return String is
@@ -46,4 +46,4 @@ begin
 
     InputPalabra;
 
-end rotandoString;
+end rotandostring;

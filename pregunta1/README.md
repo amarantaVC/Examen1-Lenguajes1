@@ -17,16 +17,15 @@
 Una vez realizado este paso.
 
 4. verificamos si GNAT se instalo correctamente 
-
 ``` gnatmake -v ```
 
 5. Compile y ejecute el programa con los siguientes comandos:
 
     ### 1.a) EJERCICIO DE ROTAR STRING
 
-    ``` gnatmake RotandoString.adb ```
+    ``` gnatmake rotandostring.adb ```
     
-    ```  ./RotandoString ```
+    ```  ./rotandostring ```
 
     ### 1.b) EJERCICIO DE MATRIZ TRANSPUESTA
 
