@@ -26,6 +26,9 @@ Una vez realizado este paso.
 
 ``` ./ejecutable ```
 
+6. Para la cobertura ejecute el siguiente comando:
+
+``` gcovr ```
 6. Requisitos del Sistema
 
 
